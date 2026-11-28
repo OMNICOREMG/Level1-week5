@@ -13,13 +13,13 @@ Complete this task for Assignment 1. Keep this folder inside the same public Wee
 
 ## My evidence
 
-- Fictional activity: TODO
-- Command I ran from the repository root: TODO
-- First observed output: TODO
-- Changed observed output: TODO
-- What saving does: TODO
-- What a local commit records: TODO
-- Why I push after committing: TODO
-- How I checked that GitHub has my final version: TODO
+- Fictional activity: Welcome To the Big Easy
+- Command I ran from the repository root: node-day-21/hello.js
+- First observed output: Welcome to the Big Easy
+- Changed observed output: Welcome to the Big Easy! Where the Gumbo is Hot
+- What saving does: shows ouput
+- What a local commit records: The Updated file change
+- Why I push after committing: To send to repository
+- How I checked that GitHub has my final version: Git status
 
 Replace all TODOs with truthful observations. Submit only the repository root URL to the two Moodle assignments when all required work is ready; this folder is not a separate upload.
